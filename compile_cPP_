@@ -1,0 +1,2 @@
+gcc file.cpp -o khan
+./khan

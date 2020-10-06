@@ -1,0 +1,2 @@
+rm file_name
+rmdir folder_name

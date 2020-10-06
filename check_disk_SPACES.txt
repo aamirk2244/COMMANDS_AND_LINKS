@@ -1,0 +1,7 @@
+df -h (for all storage formats in the system)
+df -h /       (for the storage where ubuntu is present)
+df -h /home  (for the storage another file formate)
+mount | column -t  (to display information about mounted file)
+fdisk -l       (list the partition table of files you should run as root)
+fdisk -l /dev/sda	(CHECK DISK SPACE INDIVIDUALLY)
+

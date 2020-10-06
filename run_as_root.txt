@@ -1,0 +1,3 @@
+sudo -i
+going to hidden directory from root use for example 
+cd /etc
